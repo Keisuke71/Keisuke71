@@ -1,11 +1,11 @@
 # Hi!👋 Welcome to my GitHub! 😎
 
-Kansai University / Department of Electrical, Electronic and Information Engineering🎓 
+### Kansai University / Department of Electrical, Electronic and Information Engineering🎓 
 
-🛠️ Tech: Swift, Javascript, Java
-🌱 Working on: iOS Application Development / Chrome Extension
+### 🛠️ Tech: Swift, Javascript, Java  
+### 🌱 Working on: iOS Application Development / Chrome Extension
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Foo_name&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keisuke71&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Keisuke71/Keisuke71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
